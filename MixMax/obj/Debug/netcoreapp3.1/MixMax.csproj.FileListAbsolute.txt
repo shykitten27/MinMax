@@ -1,0 +1,14 @@
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\bin\Debug\netcoreapp3.1\MixMax.exe
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\bin\Debug\netcoreapp3.1\MixMax.deps.json
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\bin\Debug\netcoreapp3.1\MixMax.runtimeconfig.json
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\bin\Debug\netcoreapp3.1\MixMax.runtimeconfig.dev.json
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\bin\Debug\netcoreapp3.1\MixMax.dll
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\bin\Debug\netcoreapp3.1\MixMax.pdb
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.csproj.AssemblyReference.cache
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.AssemblyInfoInputs.cache
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.AssemblyInfo.cs
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.csproj.CoreCompileInputs.cache
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.dll
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.pdb
+C:\Users\dseid\launchcode\Liftoff\Weekly Coding Challenges\MixMax\obj\Debug\netcoreapp3.1\MixMax.genruntimeconfig.cache
